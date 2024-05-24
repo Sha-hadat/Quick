@@ -1,2 +1,2 @@
 # Quick
-Quick live link:
+Quick live link:https://sha-hadat.github.io/Quick/
